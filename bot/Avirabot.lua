@@ -272,7 +272,7 @@ function create_config( )
     help_text_realm = [[ ]],
     help_text = [[ ]],
 	help_text_super =[[
-🚀 saint croos bot SuperGroup Commands:
+🚀 saint bot SuperGroup Commands:
 
 !owner
 دریافت آیدی مدیر اصلی گروه
@@ -525,3 +525,4 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+my id:@saint_king
